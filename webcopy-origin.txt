@@ -1,0 +1,272 @@
+Uri: https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&family=Montserrat&display=swaprel=stylesheet
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/balsamiqsans/v14/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8.ttf
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\s\balsamiqsans\v14\P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://habarovsk.dommi-studio.ru/
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\index.htm
+Content Type: text/html
+
+Uri: https://habarovsk.dommi-studio.ru/pk
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\pk.html
+Content Type: text/html
+
+Uri: https://habarovsk.dommi-studio.ru/tilda-blocks-page22390813.min.css?t=1708931138
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tilda-blocks-page22390813.min.css
+Content Type: text/css
+
+Uri: https://habarovsk.dommi-studio.ru/tilda-blocks-page22390813.min.js?t=1708931138
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tilda-blocks-page22390813.min.js
+Content Type: application/javascript
+
+Uri: https://habarovsk.dommi-studio.ru/tilda-blocks-page26548018.min.css?t=1708600732
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tilda-blocks-page26548018.min.css
+Content Type: text/css
+
+Uri: https://habarovsk.dommi-studio.ru/tilda-blocks-page26548018.min.js?t=1708600732
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tilda-blocks-page26548018.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/96529142
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\watch\96529142
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-zero-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3463-6130-4231-a335-333966363236/IMG_6728-_1_.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3463-6130-4231-a335-333966363236\IMG_6728-_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3538-3663-4239-b464-656562373962/rastr_dommi_logo_ver.png
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3538-3663-4239-b464-656562373962\rastr_dommi_logo_ver.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3639-6364-4065-a662-386564313035/1.svg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3639-6364-4065-a662-386564313035\1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3737-3462-4265-b266-373463643338/MuseoSansCyrl-700.woff
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3737-3462-4265-b266-373463643338\MuseoSansCyrl-700.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6432-3731-4365-a430-306233323635/MuseoSansCyrl-500.woff
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6432-3731-4365-a430-306233323635\MuseoSansCyrl-500.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6435-3530-4430-b333-383130653732/MuseoSansCyrl-300.woff
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6435-3530-4430-b333-383130653732\MuseoSansCyrl-300.woff
+Content Type: application/font-woff
+
+Uri: https://thb.tildacdn.com/tild3039-6133-4634-a466-393835373935/-/resizeb/20x/IMG_1520.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3039-6133-4634-a466-393835373935\-\resizeb\20x\IMG_1520.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3137-6631-4330-b637-646234333738/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3137-6631-4330-b637-646234333738\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3238-6462-4536-a163-373065343563/-/resize/20x/belaya-detskaya-komn.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3238-6462-4536-a163-373065343563\-\resize\20x\belaya-detskaya-komn.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3261-3738-4538-b865-623933643732/-/resizeb/20x/IMG-20210707-WA0010.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3261-3738-4538-b865-623933643732\-\resizeb\20x\IMG-20210707-WA0010.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3330-3336-4763-b432-336332616438/-/resize/20x/__1.png
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3330-3336-4763-b432-336332616438\-\resize\20x\__1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3366-3435-4561-b166-626436353630/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3366-3435-4561-b166-626436353630\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3433-3235-4961-a561-393333396330/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3433-3235-4961-a561-393333396330\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3435-3734-4230-b131-333563656239/-/resizeb/20x/IMG_2167.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3435-3734-4230-b131-333563656239\-\resizeb\20x\IMG_2167.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3539-3631-4561-b465-383035653964/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3539-3631-4561-b465-383035653964\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3562-3034-4738-a132-323830396165/-/resizeb/20x/IMG_2085.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3562-3034-4738-a132-323830396165\-\resizeb\20x\IMG_2085.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3562-3536-4837-b937-666564373539/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3562-3536-4837-b937-666564373539\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3564-3338-4565-a236-366266623936/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3564-3338-4565-a236-366266623936\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3732-3738-4935-b064-333534346632/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3732-3738-4935-b064-333534346632\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3736-3930-4738-b735-393461633733/-/resizeb/20x/IMG_1622-2.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3736-3930-4738-b735-393461633733\-\resizeb\20x\IMG_1622-2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3836-6133-4136-b738-356137653062/-/resizeb/20x/IMG_1715.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3836-6133-4136-b738-356137653062\-\resizeb\20x\IMG_1715.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3863-6233-4361-a365-313632343431/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3863-6233-4361-a365-313632343431\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3938-3432-4163-a163-363262306364/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3938-3432-4163-a163-363262306364\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3965-3535-4665-a461-656139383366/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild3965-3535-4665-a461-656139383366\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6139-6665-4838-b632-313837643138/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6139-6665-4838-b632-313837643138\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6166-3137-4163-a466-353666613765/-/resizeb/20x/IMG_1887.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6166-3137-4163-a466-353666613765\-\resizeb\20x\IMG_1887.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6234-3262-4431-b830-393363323530/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6234-3262-4431-b830-393363323530\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6331-6336-4939-b165-346237343335/-/resizeb/20x/IMG_1694.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6331-6336-4939-b165-346237343335\-\resizeb\20x\IMG_1694.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6339-6661-4161-a564-313237663338/-/resizeb/20x/20210714_173149.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6339-6661-4161-a564-313237663338\-\resizeb\20x\20210714_173149.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6438-3031-4236-b065-313539303835/-/resizeb/20x/photo_2022-04-15_09-.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6438-3031-4236-b065-313539303835\-\resizeb\20x\photo_2022-04-15_09-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6565-3739-4436-a661-306362373333/-/resizeb/20x/IMG_2032.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6565-3739-4436-a661-306362373333\-\resizeb\20x\IMG_2032.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6631-3731-4761-a431-616434643263/-/resizeb/20x/IMG_1586.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6631-3731-4761-a431-616434643263\-\resizeb\20x\IMG_1586.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6639-6338-4266-a533-656665633037/-/resizeb/20x/IMG_2007.jpg
+File Name: C:\Downloaded Web Sites\habarovsk.dommi-studio.ru\tild6639-6338-4266-a533-656665633037\-\resizeb\20x\IMG_2007.jpg
+Content Type: image/jpeg
+
