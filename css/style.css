@@ -1,0 +1,28 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 5%; 
+  }
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    width: 300px;
+    height: 500px;
+    margin-bottom: 10%;
+    
+}
+  
+.foto {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 325px;
+    height: 500px;
+}
+.nachalo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
